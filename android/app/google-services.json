@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "396044148836",
+    "project_id": "course-flutter-motobike",
+    "storage_bucket": "course-flutter-motobike.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396044148836:android:db0d860c4f4011089dff71",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC8E3X8AnMVOHhpthad-1WKX6liHD4RLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396044148836:android:6a3bd6d087135cae9dff71",
+        "android_client_info": {
+          "package_name": "com.example.course_motobike"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC8E3X8AnMVOHhpthad-1WKX6liHD4RLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396044148836:android:35930a891115732c9dff71",
+        "android_client_info": {
+          "package_name": "com.example.motobike.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC8E3X8AnMVOHhpthad-1WKX6liHD4RLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396044148836:android:c377b993e6eb0d799dff71",
+        "android_client_info": {
+          "package_name": "com.example.motobike_cs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC8E3X8AnMVOHhpthad-1WKX6liHD4RLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396044148836:android:7b59191094652c1b9dff71",
+        "android_client_info": {
+          "package_name": "com.example.motobike_cs.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC8E3X8AnMVOHhpthad-1WKX6liHD4RLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396044148836:android:99b32477eca42fe19dff71",
+        "android_client_info": {
+          "package_name": "com.example.motobile_cs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC8E3X8AnMVOHhpthad-1WKX6liHD4RLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
